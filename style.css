@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Indie+Flower&display=swap');
+body {
+    height: 800px;
+    background-image: url(fundo.jpeg);
+    background-position: center;
+    background-size: contain;
+    color: rgb(255, 255, 255);
+    font-family: 'Bebas Neue';
+    font-size: 40px;
+    text-shadow:2px 2px 0 rgba(0, 0, 0, 0.63);
+
+}
+
+h1 {
+  font-family: 'Indie Flower';  
+  font-size: 55px; 
+  text-shadow:4px 4px 0 rgb(0, 0, 0);
+  background-color: rgba(64, 173, 173, 0.521);
+  text-align: center;
+}
+
+h2, h3 {
+  color: cyan;
+}
+
+ul {
+  border-width: 5px;
+  border-style: solid;
+  border-color: cyan;
+  border-radius: 10px;
+}
